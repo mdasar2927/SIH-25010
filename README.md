@@ -41,8 +41,10 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
+<h3>GramSeva AgriConnect</h3>
+<ul><li>Detailed Explanation
+
+GramSeva AgriConnect is a hybrid farming advisory system that combines AI insights, expert verification, offline communication channels, IoT soil health devices, and farmer-to-farmer knowledge sharing. Farmers can access guidance through a multilingual voice-enabled app, IVR calls, SMS, or community loudspeakers. Affordable soil devices with simple LED indicators provide easy fertilizer guidance.</li>
 <li>How it addresses the problem</li>
 <li>Innovation and uniqueness of the solution</li></ul>
 
