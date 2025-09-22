@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:21/09/25
-## Register Number:
-## Name:
+# Date:22/09/25
+## Register Number:25005844
+## Name:MOHAMED ASARUDEEN A
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -69,21 +69,93 @@ Community-driven verification for higher adoption.
 Scalable, sustainable, and culturally adaptable solution.</li></ul>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
+<ul><li>Technologies to Be Used
+
+Mobile & IVR: Flutter (cross-platform app), IVR/SMS gateway (e.g., Exotel/Twilio).
+
+AI Advisory: TensorFlow Lite (on-device models), Python for training models.
+
+IoT Devices: Low-cost microcontrollers (Arduino/ESP32), soil moisture + nutrient sensors, LED indicators.
+
+Voice & Language: TTS/STT APIs (Google, OpenAI Whisper, or Indic TTS), multilingual NLP.
+
+Backend & Data: Firebase (real-time sync), AWS (scalability), NoSQL DB (MongoDB/Firestore), secure APIs (weather, mandi prices, subsidies).
+
+Community Channel: Cloud storage (AWS S3), moderation interface for experts/agri-students.
 </li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<li>Methodology & Process for Implementation
+
+Requirement Gathering → Identify farmer needs, regional languages, and crop patterns.
+
+System Design → Build hybrid architecture (mobile + IVR + IoT + backend).
+
+Prototype Development →
+
+Mobile app with multilingual voice support.
+
+IoT soil device with LED indicators.
+
+AI pest detection model (Lite version).
+
+Integration → Connect app, IVR, IoT, and backend for unified data flow.
+
+Pilot Testing → Run in select villages with farmers, experts, and NGOs.
+
+Feedback & Refinement → Improve usability, language support, and accuracy.
+
+Scaling & Deployment → Expand region-wise, add more crops, languages, and advisory modules.</li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+
+<ul><li>Analysis of Feasibility
+
+Technical: Uses proven technologies (IoT sensors, IVR, AI models, Firebase/AWS), with offline-first design → feasible for rural deployment.
+
+Operational: Simple interfaces (IVR, LED soil cards) mean farmers can adopt without training; NGOs/universities can handle expert validation.
+
+Economic: Low-cost IoT (<₹300) + free/freemium app; funding possible via CSR, govt schemes, and NGOs → financially viable.
+
+Market & Social: Targets 86% small/marginal farmers; multilingual + offline features ensure inclusivity; builds farmer trust and reduces dependency.
+
+Sustainability: Encourages balanced fertilizer use, prevents soil degradation → long-term viable.</li>
+<li>Potential Challenges & Risks
+
+Limited internet connectivity in rural areas.
+
+Farmers’ hesitation to trust AI-driven advice.
+
+Upfront cost of IoT devices.
+
+Need for continuous expert availability for verification.
+
+Scaling across diverse languages and regions.</li>
+<li>Strategies to Overcome Challenges
+
+Connectivity: Offline-first design + SMS/IVR backups.
+
+Trust: Blend AI insights with expert/peer validation.
+
+Cost: Bulk production, subsidies, CSR/government support.
+
+Expert Support: Partner with agri-universities, use agri-students as moderators.
+
+Scalability: Modular architecture, phased regional rollouts with language packs.</li></ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<ul><li>Potential Impact on Target Audience
+
+Farmers: 20–30% yield boost, lower costs, easy access to verified advice.
+
+Non-smartphone users: Inclusion via IVR, SMS, and loudspeakers.
+
+Communities: Stronger trust and knowledge-sharing networks.</li>
+<li>Benefits of the Solution
+
+Social: Empowers farmers, reduces dependence on middlemen.
+
+Economic: Cuts input costs, increases income, supports small farmers.
+
+Environmental: Prevents fertilizer overuse, improves soil health, promotes sustainability.</li></ul>
 
 ## Research and References
 <h3>Remove These Lines</h3>
