@@ -158,5 +158,7 @@ Economic: Cuts input costs, increases income, supports small farmers.
 Environmental: Prevents fertilizer overuse, improves soil health, promotes sustainability.</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<ul><li>https://www.sciencedirect.com/science/article/pii/S2667006222000375</li>
+<li>https://pmc.ncbi.nlm.nih.gov/articles/PMC9263815/</li>>
+<li>https://link.springer.com/article/10.1007/s43621-024-00447-4</li>
+</ul>
