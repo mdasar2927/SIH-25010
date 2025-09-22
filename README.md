@@ -45,8 +45,28 @@ Agriculture, FoodTech & Rural Development
 <ul><li>Detailed Explanation
 
 GramSeva AgriConnect is a hybrid farming advisory system that combines AI insights, expert verification, offline communication channels, IoT soil health devices, and farmer-to-farmer knowledge sharing. Farmers can access guidance through a multilingual voice-enabled app, IVR calls, SMS, or community loudspeakers. Affordable soil devices with simple LED indicators provide easy fertilizer guidance.</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<li>How It Addresses the Problem
+
+Ensures access for all farmers, even low-literate and non-smartphone users.
+
+Builds trust in AI advice through expert validation.
+
+Provides timely, localized, and practical guidance based on soil and weather data.
+
+Prevents soil mismanagement with instant visual cues from IoT devices.
+
+Strengthens reliability by blending technology, experts, and community wisdom.</li>
+<li>Innovation & Uniqueness
+
+Hybrid model combining AI, experts, and farmers.
+
+Inclusive multi-channel access (app + IVR + SMS + loudspeakers).
+
+Low-tech IoT devices with easy-to-understand LED indicators.
+
+Community-driven verification for higher adoption.
+
+Scalable, sustainable, and culturally adaptable solution.</li></ul>
 
 ## Technical Approach
 <h3>Remove These Lines</h3>
