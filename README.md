@@ -159,6 +159,11 @@ Environmental: Prevents fertilizer overuse, improves soil health, promotes susta
 
 ## Research and References
 <ul><li>https://www.sciencedirect.com/science/article/pii/S2667006222000375</li>
-<li>https://pmc.ncbi.nlm.nih.gov/articles/PMC9263815/</li>>
+<li>https://pmc.ncbi.nlm.nih.gov/articles/PMC9263815/</li>
 <li>https://link.springer.com/article/10.1007/s43621-024-00447-4</li>
 </ul>
+
+## IMAGE
+
+![SIH IMG](https://github.com/user-attachments/assets/01452979-e6ff-4611-9433-515b0079e605)
+
